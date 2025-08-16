@@ -8,3 +8,4 @@
 
 <li> "Agrega amigo" para agregar un nuevo amigo a la lista. </li>
 <li> "Sortear Amigo" para elegir aleatoriamente a un amigo incluido en la lista. </li>
+- ```Agregar Amigo```: para agregar un nuevo amigo a la lista.
