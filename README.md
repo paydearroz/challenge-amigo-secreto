@@ -6,6 +6,6 @@
 
 <p> Un breve programa que sortea (elige) un amigo entre una lista proporcionada por el usuario. </p>
 
-<li> "Agrega amigo" para agregar un nuevo amigo a la lista. </li>
-<li> "Sortear Amigo" para elegir aleatoriamente a un amigo incluido en la lista. </li>
-- ```Agregar Amigo```: para agregar un nuevo amigo a la lista.
+### Funcionalidades
+- ``` Agregar amigo ```: para agregar un nuevo amigo a la lista.
+- ``` Sortear amigo ```: para elegir aleatoriamente a un amigo incluido en la lista.
