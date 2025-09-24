@@ -9,3 +9,4 @@ Una app web sencilla que sortea (elige) un amigo entre una lista proporcionada p
 ### Funcionalidades
 - ``` Agregar amigo ```: para agregar un nuevo amigo a la lista.
 - ``` Sortear amigo ```: para elegir aleatoriamente a un amigo incluido en la lista.
+- ``` Reiniciar ```: para reiniciar el sorteo y poder empezar de nuevo.
