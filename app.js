@@ -37,4 +37,10 @@ function mostrarLista(){
         cadena = cadena + `<li>${amigos[i]}</li>`;
     }
     listaMostrada.innerHTML = cadena;
+
+}
+function reiniciarSorteo(){
+    amigos = [];
+    document.getElementById("listaAmigos").innerHTML="";
+    document.getElementById("resultado").innerHTML = "";
 }
